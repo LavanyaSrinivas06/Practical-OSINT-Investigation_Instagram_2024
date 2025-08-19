@@ -15,38 +15,13 @@ Tools used:
 - **Matplotlib, Seaborn, Plotly** (visualization)
 - **HypeAuditor, SocialBlade, Display Purposes** (validation)
 
----
-
 ## ⚙️ Workflow
-```mermaid
 flowchart TD
-  A[Data Identification] --> B[Data Collection]
-  B --> C[Processing & Cleaning]
-  C --> D[Analysis & Metrics]
-  D --> E[Visualization]
-  E --> F[Insights & Reporting]
-
-This will render as a nice flowchart directly in GitHub.
-
-### 🔹 2. **Metrics Overview Diagram**
-```markdown
-## 📊 Metrics Tracked
-```mermaid
-mindmap
-  root((Instagram Profile))
-    Followers
-      Growth Rate
-      Authenticity
-    Engagement
-      Likes
-      Comments
-      Hashtags
-    Collaboration
-      Sponsored Posts
-      Partnership Rate
-    Earnings
-      Estimation
-      Industry Comparison
+    A[Data Identification] --> B[Data Collection]
+    B --> C[Processing & Cleaning]
+    C --> D[Analysis & Metrics]
+    D --> E[Visualization]
+    E --> F[Insights & Reporting]
 
 
 
