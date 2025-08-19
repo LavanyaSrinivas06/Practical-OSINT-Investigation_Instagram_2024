@@ -25,3 +25,51 @@ flowchart TD
     C --> D[Analysis & Metrics]
     D --> E[Visualization]
     E --> F[Insights & Reporting]
+
+This will render as a nice flowchart directly in GitHub.
+
+---
+
+### 🔹 2. **Metrics Overview Diagram**
+```markdown
+## 📊 Metrics Tracked
+```mermaid
+mindmap
+  root((Instagram Profile))
+    Followers
+      Growth Rate
+      Authenticity
+    Engagement
+      Likes
+      Comments
+      Hashtags
+    Collaboration
+      Sponsored Posts
+      Partnership Rate
+    Earnings
+      Estimation
+      Industry Comparison
+
+---
+
+### 🔹 3. **Icons & Images**
+You can use free icons from [Simple Icons](https://simpleicons.org/) or emoji in README.  
+Examples:  
+- 🟦 **Python**: 🐍  
+- 📊 **Data Analysis**: 📈  
+- 📷 **Instagram**: 📸  
+- 🔎 **OSINT**: 🔍  
+
+---
+
+### 🔹 4. **Example Chart Screenshot**
+In your `notebooks/analysis_demo.ipynb`, you can generate plots (matplotlib/seaborn) like:  
+- Line chart: *Follower Growth over Time*  
+- Bar chart: *Top 10 Hashtags Used*  
+- Pie chart: *Collaboration vs Non-Collaboration Posts*  
+
+Export those as `.png` images and upload them to your repo’s `docs/images/` folder.  
+Then embed them in README like this:
+```markdown
+![Follower Growth](docs/images/follower_growth.png)
+![Top Hashtags](docs/images/top_hashtags.png)
