@@ -20,15 +20,13 @@ Tools used:
 ## ⚙️ Workflow
 ```mermaid
 flowchart TD
-    A[Data Identification] --> B[Data Collection]
-    B --> C[Processing & Cleaning]
-    C --> D[Analysis & Metrics]
-    D --> E[Visualization]
-    E --> F[Insights & Reporting]
+  A[Data Identification] --> B[Data Collection]
+  B --> C[Processing & Cleaning]
+  C --> D[Analysis & Metrics]
+  D --> E[Visualization]
+  E --> F[Insights & Reporting]
 
 This will render as a nice flowchart directly in GitHub.
-
----
 
 ### 🔹 2. **Metrics Overview Diagram**
 ```markdown
@@ -50,7 +48,6 @@ mindmap
       Estimation
       Industry Comparison
 
----
 
 ### 🔹 3. **Icons & Images**
 You can use free icons from [Simple Icons](https://simpleicons.org/) or emoji in README.  
@@ -73,3 +70,4 @@ Then embed them in README like this:
 ```markdown
 ![Follower Growth](docs/images/follower_growth.png)
 ![Top Hashtags](docs/images/top_hashtags.png)
+
