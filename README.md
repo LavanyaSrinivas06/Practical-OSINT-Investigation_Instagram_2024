@@ -49,20 +49,5 @@ mindmap
       Industry Comparison
 
 
-### 🔹 3. **Icons & Images**
-You can use free icons from [Simple Icons](https://simpleicons.org/) or emoji in README.  
-Examples:  
-- 🟦 **Python**: 🐍  
-- 📊 **Data Analysis**: 📈  
-- 📷 **Instagram**: 📸  
-- 🔎 **OSINT**: 🔍  
-
----
-
-### 🔹 4. **Example Chart Screenshot**
-In your `notebooks/analysis_demo.ipynb`, you can generate plots (matplotlib/seaborn) like:  
-- Line chart: *Follower Growth over Time*  
-- Bar chart: *Top 10 Hashtags Used*  
-- Pie chart: *Collaboration vs Non-Collaboration Posts*  
 
 
