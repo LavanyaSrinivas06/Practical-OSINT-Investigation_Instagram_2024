@@ -65,9 +65,4 @@ In your `notebooks/analysis_demo.ipynb`, you can generate plots (matplotlib/seab
 - Bar chart: *Top 10 Hashtags Used*  
 - Pie chart: *Collaboration vs Non-Collaboration Posts*  
 
-Export those as `.png` images and upload them to your repo’s `docs/images/` folder.  
-Then embed them in README like this:
-```markdown
-![Follower Growth](docs/images/follower_growth.png)
-![Top Hashtags](docs/images/top_hashtags.png)
 
