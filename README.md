@@ -15,7 +15,9 @@ Tools used:
 - **Matplotlib, Seaborn, Plotly** (visualization)
 - **HypeAuditor, SocialBlade, Display Purposes** (validation)
 
+  
 ## ⚙️ Workflow
+```mermaid
 flowchart TD
     A[Data Identification] --> B[Data Collection]
     B --> C[Processing & Cleaning]
